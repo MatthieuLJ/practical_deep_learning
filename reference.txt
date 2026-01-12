@@ -1,0 +1,4 @@
+https://github.com/rkneusel9/PracticalDeepLearningPython/tree/main
+
+Iris data from 
+https://archive.ics.uci.edu/dataset/53/iris
